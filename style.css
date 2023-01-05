@@ -7,4 +7,23 @@
 nav{
     display: flex;
     justify-content: space-between;
+    margin: 20px 200px;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 50px;
+}
+
+.header-title{
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.color-primary{
+    color: rgb(250, 154, 27);
 }
